@@ -16,4 +16,4 @@ This repository contains multiple implementations of the Saga pattern for managi
   - This section includes a proposition of a solution to address the propagation problem in multi-level transactions.
   - [View the implementation here](https://github.com/Ismail-Ahrd/Transactions-in-Microservices/tree/main/Saga-Orchestration-Propagation)
 
-For a deeper understanding and detailed explanations, you can refer to this series of blog posts on my Medium page: [Microservices Series](https://medium.com/p/1758b61e1cfa). In these posts, I cover complex topics related to microservices, including security and distributed transactions.
+For a deeper understanding and detailed explanations, you can refer to this series of blog posts on my Medium page: [Microservices Series](https://medium.com/@blogs4devs/hello-2230d29c939c). In these posts, I cover complex topics related to microservices, including security and distributed transactions.
